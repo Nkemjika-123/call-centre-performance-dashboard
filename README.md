@@ -77,7 +77,7 @@ This project aims to address these issues through data-driven insights and actio
 
 ## Visuals
 ### **Dashboard Preview:**
-![Dashboard Screenshot](link-to-your-screenshot.png)
+![Dashboard Screenshot](https://github.com/Nkemjika-123/call-centre-performance-dashboard/blob/main/Dashboard.JPG)
 
 
 
