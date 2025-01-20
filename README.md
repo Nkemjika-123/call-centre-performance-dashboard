@@ -43,6 +43,41 @@ This project aims to address these issues through data-driven insights and actio
   - **DAX Measures:** KPIs like Average Handling Time (AHT), First Call Resolution (FCR), and Customer Satisfaction Scores (CSAT).
   - **Interactive Visuals:** Line charts, tables, and cards.
 
+---
+
+## Key Insights
+1. **Top Agent Performance:**  
+   - **Jim:** Highest satisfaction rating and call volume.
+2. **Unresolved Calls:**  
+   - **28% unresolved**, dominated by streaming and payment issues.
+3. **Call Trends:**  
+   - January had the highest call volume.
+4. **Agent Efficiency:**  
+   - Disparities in call duration suggest training opportunities.
 
 ---
+
+## Recommendations
+1. **Improve Call Resolution:**  
+   - Conduct training to address common unresolved topics.
+2. **Enhance Self-Service Support:**  
+   - Deploy FAQs, chatbots, or knowledge bases.
+3. **Optimize Agent Scheduling:**  
+   - Prepare for seasonal call spikes.
+4. **Benchmark Best Practices:**  
+   - Use Jim’s methods as a model for agent training.
+
+---
+
+## Tools and Skills
+- **Tools:** Power BI, DAX, Excel
+- **Skills:** Data Modeling, Visualization, Business Intelligence, Problem Solving
+
+---
+
+## Visuals
+### **Dashboard Preview:**
+![Dashboard Screenshot](link-to-your-screenshot.png)
+
+
 
