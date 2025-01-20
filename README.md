@@ -40,8 +40,9 @@ This project aims to address these issues through data-driven insights and actio
 
 ### **Technical Implementation:**
 - Developed Power BI dashboard with:
-  - **DAX Measures:** KPIs like AHT, FCR, and CSAT.
+  - **DAX Measures:** KPIs like Average Handling Time (AHT), First Call Resolution (FCR), and Customer Satisfaction Scores (CSAT).
   - **Interactive Visuals:** Line charts, tables, and cards.
+
 
 ---
 
