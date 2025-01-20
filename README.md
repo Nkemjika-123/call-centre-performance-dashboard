@@ -76,10 +76,10 @@ This project aims to address these issues through data-driven insights and actio
 ---
 
 ## Visuals
-### **Dashboard Preview:**
+### **Sample Chat:**
 ![Sample Chart](https://github.com/Nkemjika-123/call-centre-performance-dashboard/blob/main/Dashboard.JPG)
 
-### **Sample Chart:**
+### **Dashboard Preview:**
 ![Dashboard Screenshot](https://github.com/Nkemjika-123/call-centre-performance-dashboard/blob/main/Call%20Centre%20Report.pbix)
 
 
